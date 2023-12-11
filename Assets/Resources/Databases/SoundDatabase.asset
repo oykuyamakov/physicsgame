@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 775535cf5a6010b4b964b2b5ad029c7d, type: 3}
+  m_Name: SoundDatabase
+  m_EditorClassIdentifier: 
+  LevelWinSound: {fileID: 11400000, guid: 9ee7d239373a0c64bb8786c164455cf2, type: 2}
+  LevelFailSound: {fileID: 11400000, guid: b31238483f3b77d44b5c48dca1fad3e5, type: 2}
+  LevelStartSound: {fileID: 11400000, guid: a77291373d93b144fb953aab3da45d03, type: 2}
+  LevelMusic: {fileID: 11400000, guid: 8aaff22b55f996b45857a303609a9de3, type: 2}
